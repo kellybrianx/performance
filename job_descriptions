@@ -1,0 +1,9 @@
+fio-job-01 - Random 512B Write Test for Latency
+fio-job-02 - Random 512B Write Test for Peak IOPS
+fio-job-03 - Sequential 512B Write Test for Peak IOPS
+fio-job-04 - Random 1M Write Test for Peak Bandwidth
+fio-job-05 - (PRECONDITION) Sequential 1M Complete Write Test
+fio-job-06 - Random 512B Read Test for Latency
+fio-job-07 - Random 512B Read Test for Peak IOPS
+fio-job-08 - Sequential 512B Read Test for Peak IOPS
+fio-job-09 - Random 1M Read Test for Peak Bandwidth
